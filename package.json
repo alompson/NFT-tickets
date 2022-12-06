@@ -7,16 +7,12 @@
     "test": "test"
   },
   "dependencies": {
-    "openzeppelin-solidity": "^2.1.2",
+    "@openzeppelin/contracts": "^2.1.2",
     "truffle": "^5.0.3",
     "truffle-assertions": "^0.8.0"
   },
   "scripts": {
     "test": "mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ratio91/EventTicketSystem.git"
   },
   "keywords": [
     "NFT",
@@ -25,10 +21,5 @@
     "Event",
     "Ticket"
   ],
-  "author": "ratio91",
-  "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/ratio91/EventTicketSystem/issues"
-  },
-  "homepage": "https://github.com/ratio91/EventTicketSystem#readme"
+  "license": "UNLICENSED"
 }
